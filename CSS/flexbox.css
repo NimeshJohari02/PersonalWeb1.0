@@ -1,0 +1,27 @@
+img{
+   width: 500px;
+  height:500px;
+  margin: 15px;
+
+}
+body
+{
+  background-color: black;
+}
+.container
+{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+h2{
+  color: mintcream;
+  
+  font-family: 'Times New Roman';
+  border-bottom: 2px dotted pink;
+  width: 400px;
+  font-size: 2em;
+border-right: 2px dotted pink;
+
+  text-align: center;
+}

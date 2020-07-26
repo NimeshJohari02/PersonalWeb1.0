@@ -1,0 +1,28 @@
+p{
+  background-color: black;
+  color: mintcream;
+  text-decoration: underline;
+  line-height: 30px;
+  font-style: italic;
+/*  font-weight: bold;*/
+   font-size: 28px;
+   font-family: 'Indie Flower', cursive;
+}
+img{
+  height: 500px;
+  width: 500px;
+
+  float: left;
+}
+footer{
+  clear: both;/*Since Evreyhtinh is on the right we add this so tthat the footer can
+  be free from the float tag just above it*/
+  text-align: center;
+  text-decoration: underline;
+
+  line-height: 30px;
+  font-style: italic;
+/*  font-weight: bold;*/
+   font-size: 28px;
+   font-family: 'Indie Flower', cursive;
+}
